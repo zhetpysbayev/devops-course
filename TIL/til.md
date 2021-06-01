@@ -1,2 +1,2 @@
-TIL == Today I've Learned
-31.05.2021- первый урок, ознакомление
+TIL - Today I've Learned
+05/31/2021 - first lesson, introduction

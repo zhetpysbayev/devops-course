@@ -1,2 +1,2 @@
-TIL == Today I've Learned (Сегодня я узнал)
-В этой папке находится файл til.md
+TIL - Today I've Learned
+This folder contains the til.md file

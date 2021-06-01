@@ -1,18 +1,18 @@
-О себе:
-Меня зовут Жанат, по образованию связист,на данный момент перешел на позицию Devops инженера из системного администрирования.
-Хобби рыбалка, охота, походы в горы.
+About myself:
+My name is Zhanat, a communications engineer by education, at the moment I have moved to the position of Devops engineer from system administration.
+Hobby fishing, hunting, hiking.
 
-Для чего записался на курс:
-1. Новые знания, особенно интересуют Kubernetes, автоматизация(Terraform, Ansible)
-2. Оценка своих знаний
+Why enrolled in the course:
+1. New knowledge, especially interested in Kubernetes, automation (Terraform, Ansible)
+2. Assessment of your knowledge
 
-Чего я жду от курса?
-1. Лучшее восприятие общей методологии DevOps
-2. Автоматизация развертки среды, приложений
-3. Улучшить знания по CI/CD
-4. Улучшить навыки администрирования Linux, Kubernetes
-5. Структуру deployment, config *.yml
+What do I expect from the course?
+1. Better perception of the overall DevOps methodology
+2. Automation of deployment of the environment, applications
+3. Improve knowledge of CI / CD
+4. Improve your Linux, Kubernetes administration skills
+5. The structure of deployment, config * .yml
 
-Контакты:
+Contacts:
 email: zhetpysbayev@gmail.com
 telegram: Zh_Zhanat
